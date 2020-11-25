@@ -1,6 +1,6 @@
 (* Zadanie 1: Arytmetyka *)
 (* Autor: Michał Skwarek 418426 *)
-(* Code Eeview: Dawid Mędrek 429565 *)
+(* Code Review: Dawid Mędrek 429565 *)
 
 (* Jako Przedział traktuję przedział liczbowy w formie <a, b>.
  * Jako Dopelnienie traktuję przedział w formie <neg_inf, a> u <b, inf> *)
