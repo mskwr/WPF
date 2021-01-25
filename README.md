@@ -7,3 +7,4 @@ Zawiera zadania:
 3. iSet - biblioteka zbiorów liczb całkowitych oparta o przedziały na drzewach AVL.
 4. Origami - biblioteka do badania, ile warstw papieru ma w danym punkcie kartka złożona według listy prostych.
 5. Topol - sortowanie topologiczne grafu.
+6. Przelewanka - implementacja zadania "Mokra robota" z Olimpiady Informatycznej.
